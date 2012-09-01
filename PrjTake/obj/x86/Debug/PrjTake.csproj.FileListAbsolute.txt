@@ -1,0 +1,5 @@
+c:\users\joshuab\documents\PrjTake\bin\Debug\PrjTake.exe
+c:\users\joshuab\documents\PrjTake\bin\Debug\PrjTake.pdb
+c:\users\joshuab\documents\PrjTake\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\joshuab\documents\PrjTake\obj\x86\Debug\PrjTake.exe
+c:\users\joshuab\documents\PrjTake\obj\x86\Debug\PrjTake.pdb
